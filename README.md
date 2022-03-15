@@ -1,0 +1,2 @@
+# JavaSCript
+calculating using array
