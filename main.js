@@ -16,6 +16,7 @@ let boOks = prompt('Title of the book');
 let auThor = prompt('Name of the author');
 
 let puBlisher = prompt('Name of the publisher');
+
 book1.innerHTML=books;
 author1.innerHTML=author;
 publisher1.innerHTML=publisher;
